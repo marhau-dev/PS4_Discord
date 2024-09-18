@@ -12,5 +12,5 @@ the application will go to sleep mode. That is, it would also sleep when there i
 
 
 Acknowledgment
-thanks for zorua98741. I use zorua98741 repo (PS4RPD) for understanding system i not copy any line of code.
+thanks for zorua98741. I use zorua98741 repo (PS4RPD) for understanding how system works i not copy any line of code.
 
